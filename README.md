@@ -1,4 +1,5 @@
 # How to run this blog
+To install flask before moving to 0 - $pip install flask
 
 0. Change your directory into this project's directory. 
 
@@ -9,7 +10,6 @@ Explain: this is the environment variable called FLASK_APP. Its value is `hello`
 
 3. At your terminal, run `export FLASK_ENV=development`
 Explain: this is the environment variable called FLASK_ENV. Its value is `development`
-
 
 4. Last but not least, run `flask run`
 
